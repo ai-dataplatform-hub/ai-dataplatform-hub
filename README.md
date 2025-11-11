@@ -57,7 +57,7 @@ I believe data platforms should be:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-dataplatform&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-dataplatform-hub&show_icons=true&theme=dark&hide_border=true)
 
 ## 📫 Connect
 
