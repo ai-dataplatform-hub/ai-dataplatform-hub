@@ -69,16 +69,10 @@ I believe data platforms should be:
 
 ## 📫 Connect
 
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: contact@ai.dataplatform.io
-- 📝 Blog: Coming soon
-- 🐦 Twitter: @ai_dataplatform
-
-## 🎓 Certifications
-
-- 🎯 AWS Solutions Architect Professional (In Progress)
-- 📋 AWS AI Practitioner (Pursuing - Jan 2025)
-- 📋 AWS Machine Learning Specialty (Planned - Mar 2025)
+- 💼 LinkedIn: [www.linkedin.com/in/ai-dataplatform]
+- 📧 Email: ai.dataplatform.io@gmail.com
+- 📝 Blog: [https://medium.com/@linj6669/navigating-the-ai-wave-a-solution-architects-guide-to-staying-relevant-3967b6d74fb3]
+- 🐦 X: @ai_dataplatform
 
 ---
 
