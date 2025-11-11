@@ -46,14 +46,6 @@ Languages: Python | SQL | Bash
 IaC: Terraform | CloudFormation | AWS CDK
 Protocols: MCP | REST | GraphQL
 
-
-## 📊 Current Focus (2025)
-
-- 🚧 Building MCP server for AWS Data Lakes
-- 📚 AWS Solutions Architect Professional certification
-- 📝 Writing about AI-powered data patterns
-- 🌟 Contributing to open source
-
 ## 🌟 Philosophy
 
 I believe data platforms should be:
