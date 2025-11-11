@@ -39,4 +39,57 @@ Autonomous AI agents for self-managing data platforms using MCP for tool access.
 **Tech:** Bedrock Agents, MCP, Step Functions, Lambda
 
 ## 🔧 Tech Stack
+AI/ML: AWS Bedrock | Claude | RAG | Embeddings | Vector DBs
+Data: S3 | Glue | Athena | Lake Formation | Apache Iceberg | Spark
+Cloud: AWS (Solutions Architect track)
+Languages: Python | SQL | Bash
+IaC: Terraform | CloudFormation | AWS CDK
+Protocols: MCP | REST | GraphQL
 
+
+## 📊 Current Focus (2025)
+
+- 🚧 Building MCP server for AWS Data Lakes
+- 📚 AWS Solutions Architect Professional certification
+- 📝 Writing about AI-powered data patterns
+- 🌟 Contributing to open source
+
+## 🌟 Philosophy
+
+I believe data platforms should be:
+
+- **Intelligent** → AI-enhanced, not just data storage
+- **Accessible** → Natural language interfaces for everyone
+- **Autonomous** → Self-optimizing and self-healing
+- **Open** → Built on open standards and protocols
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-dataplatform&show_icons=true&theme=dark&hide_border=true)
+
+## 📫 Connect
+
+- 💼 LinkedIn: [Your LinkedIn URL]
+- 📧 Email: contact@ai.dataplatform.io
+- 📝 Blog: Coming soon
+- 🐦 Twitter: @ai_dataplatform
+
+## 🎓 Certifications
+
+- 🎯 AWS Solutions Architect Professional (In Progress)
+- 📋 AWS AI Practitioner (Pursuing - Jan 2025)
+- 📋 AWS Machine Learning Specialty (Planned - Mar 2025)
+
+---
+
+💡 **Building in public** | Follow my journey as I create tools for AI-powered data platforms
+
+⭐ **Star my repositories** if you find them useful!
+
+📢 **Open to collaborations** | Interesting projects | Speaking opportunities
+
+---
+
+<div align="center">
+  <i>Last updated: November 2025</i>
+</div>
