@@ -23,17 +23,17 @@ I'm a Data Lake Solution Architect specializing in AI-powered data architectures
 
 ## 🚀 Featured Projects
 
-### [🔌 data-lake-mcp](https://github.com/ai-dataplatform/data-lake-mcp) (Coming Soon)
+### [🔌 data-lake-mcp](https://github.com/ai-dataplatform-hub/datalake-mcp) (Coming Soon)
 Production-ready MCP server for AWS Data Lakes. Query your data lake with natural language through any MCP-compatible AI assistant.
 
 **Tech:** Python, MCP, AWS (S3, Glue, Athena), Bedrock
 
-### [🏛️ intelligent-lakehouse](https://github.com/ai-dataplatform/intelligent-lakehouse) (Planned)
+### [🏛️ intelligent-lakehouse](https://github.com/ai-dataplatform-hub/intelligent-lakehouse) (Planned)
 AI-powered lakehouse combining Apache Iceberg with RAG for unified query interface.
 
 **Tech:** Iceberg, RAG, Bedrock, OpenSearch, Athena
 
-### [🤖 autonomous-dataops](https://github.com/ai-dataplatform/autonomous-dataops) (Planned)
+### [🤖 autonomous-dataops](https://github.com/ai-dataplatform-hub/autonomous-dataops) (Planned)
 Autonomous AI agents for self-managing data platforms using MCP for tool access.
 
 **Tech:** Bedrock Agents, MCP, Step Functions, Lambda
