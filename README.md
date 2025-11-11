@@ -23,7 +23,7 @@ I'm a Data Lake Solution Architect specializing in AI-powered data architectures
 
 ## 🚀 Featured Projects
 
-### [🔌 data-lake-mcp](https://github.com/ai-dataplatform-hub/datalake-mcp) (Coming Soon)
+### [🔌 datalake-mcp](https://github.com/ai-dataplatform-hub/datalake-mcp) (Coming Soon)
 Production-ready MCP server for AWS Data Lakes. Query your data lake with natural language through any MCP-compatible AI assistant.
 
 **Tech:** Python, MCP, AWS (S3, Glue, Athena), Bedrock
