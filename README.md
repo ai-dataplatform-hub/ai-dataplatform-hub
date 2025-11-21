@@ -2,58 +2,88 @@
 
 > Building AI-powered data platforms for the modern enterprise
 
-I'm a Data Lake Solution Architect specializing in AI-powered data architectures. I build open-source tools that make enterprise data intelligent, accessible, and autonomous.
+I'm a **Senior Solutions Architect at Amazon** specializing in agentic AI and enterprise data platforms. I build open-source tools that make enterprise data intelligent, accessible, and autonomous.
 
-## 🎯 What I Build
+**20+ years** of enterprise architecture experience | **6-exabyte** data lake architecture | **75K+** global customers served
 
-**🤖 AI-Powered Data Access**
+## What I Build
+
+### AI-Powered Data Access
 - Natural language interfaces for data lakes
-- RAG (Retrieval Augmented Generation) systems
-- MCP (Model Context Protocol) servers for standardized AI-data connections
+- RAG (Retrieval Augmented Generation) systems  
+- Multi-agent orchestration platforms
+- MCP (Model Context Protocol) servers
 
-**🏗️ Modern Data Architectures**
+### Modern Data Architectures
 - Apache Iceberg lakehouses
 - Real-time streaming platforms
 - Cloud-native data pipelines
+- Vector database solutions
 
-**🔄 Autonomous Operations**
+### Autonomous Operations
 - Self-healing data systems
 - AI agents for data operations
 - Intelligent cost optimization
+- Production MLOps platforms
 
 ## 🚀 Featured Projects
 
-### [🔌 datalake-mcp](https://github.com/ai-dataplatform-hub/datalake-mcp) (Coming Soon)
-Production-ready MCP server for AWS Data Lakes. Query your data lake with natural language through any MCP-compatible AI assistant.
+### 🔌 [datalake-mcp](https://github.com/AI-DataPlatform-Hub/datalake-mcp)
+**Production-ready MCP server for AWS Data Lakes**
 
-**Tech:** Python, MCP, AWS (S3, Glue, Athena), Bedrock
+Query your data lake with natural language through any MCP-compatible AI assistant.
 
-### [🏛️ intelligent-lakehouse](https://github.com/ai-dataplatform-hub/intelligent-lakehouse) (Planned)
-AI-powered lakehouse combining Apache Iceberg with RAG for unified query interface.
+```bash
+# Ask questions like:
+"Show me all customer datasets from the last quarter"
+"Which tables contain PII data?"
+"Find datasets related to order processing"
+```
 
-**Tech:** Iceberg, RAG, Bedrock, OpenSearch, Athena
+**Tech:** Python · MCP Protocol · LangChain · AWS Bedrock · Pinecone · Docker
 
-### [🤖 autonomous-dataops](https://github.com/ai-dataplatform-hub/autonomous-dataops) (Planned)
-Autonomous AI agents for self-managing data platforms using MCP for tool access.
+[![Stars](https://img.shields.io/github/stars/AI-DataPlatform-Hub/datalake-mcp?style=social)](https://github.com/AI-DataPlatform-Hub/datalake-mcp)
+[![Forks](https://img.shields.io/github/forks/AI-DataPlatform-Hub/datalake-mcp?style=social)](https://github.com/AI-DataPlatform-Hub/datalake-mcp)
 
-**Tech:** Bedrock Agents, MCP, Step Functions, Lambda
+---
 
-## 🔧 Tech Stack
-AI/ML: AWS Bedrock | Claude | RAG | Embeddings | Vector DBs
-Data: S3 | Glue | Athena | Lake Formation | Apache Iceberg | Spark
-Cloud: AWS (Solutions Architect track)
-Languages: Python | SQL | Bash
-IaC: Terraform | CloudFormation | AWS CDK
-Protocols: MCP | REST | GraphQL
+### 🤖 [data-intelligence-agents](https://github.com/AI-DataPlatform-Hub/data-intelligence-agents)
+**Multi-agent orchestration system for enterprise data intelligence**
 
-## 🌟 Philosophy
+Autonomous agents that collaborate to answer complex data questions using LangGraph.
 
-I believe data platforms should be:
+```python
+# Handles complex queries like:
+"Compare Q1 vs Q2 revenue by region and identify growth drivers"
+"Analyze customer churn patterns and recommend interventions"
+```
 
-- **Intelligent** → AI-enhanced, not just data storage
-- **Accessible** → Natural language interfaces for everyone
-- **Autonomous** → Self-optimizing and self-healing
-- **Open** → Built on open standards and protocols
+**Tech:** LangChain · LangGraph · AWS Bedrock · Azure OpenAI · LangSmith
+
+[![Stars](https://img.shields.io/github/stars/AI-DataPlatform-Hub/data-intelligence-agents?style=social)](https://github.com/AI-DataPlatform-Hub/data-intelligence-agents)
+
+---
+
+### ☁️ [multi-cloud-agents](https://github.com/AI-DataPlatform-Hub/multi-cloud-agents)
+**Cross-cloud agentic AI deployment platform**
+
+Deploy the same agentic AI system across AWS and Azure with intelligent routing.
+
+**Tech:** AWS Bedrock · Azure AI Foundry · Kubernetes · Helm · Terraform
+
+[![Stars](https://img.shields.io/github/stars/AI-DataPlatform-Hub/multi-cloud-agents?style=social)](https://github.com/AI-DataPlatform-Hub/multi-cloud-agents)
+
+## 🛠️ Tech Stack
+
+**AI/ML:** LangChain · LangGraph · AutoGen · RAG · Vector Databases · Embeddings
+
+**Cloud:** AWS (Bedrock, SageMaker, S3, Glue) · Azure (OpenAI, AI Foundry) · GCP (Vertex AI)
+
+**Data:** Apache Spark · Kafka · Iceberg · Hadoop · Pinecone · QDrant · Redis
+
+**DevOps:** Docker · Kubernetes · Terraform · GitHub Actions · Helm
+
+**Languages:** Python · TypeScript · JavaScript · SQL
 
 ## 📈 GitHub Stats
 
