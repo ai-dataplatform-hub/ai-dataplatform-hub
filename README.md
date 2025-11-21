@@ -66,23 +66,8 @@ Deploy the same agentic AI system across AWS and Azure with intelligent routing.
 
 **Tech:** AWS Bedrock · Azure AI Foundry · Kubernetes · Helm · Terraform
 
+
 ---
-
-## 🛠️ Tech Stack
-
-**AI/ML:** LangChain · LangGraph · AutoGen · RAG · Vector Databases · Embeddings
-
-**Cloud:** AWS (Bedrock, SageMaker, S3, Glue) · Azure (OpenAI, AI Foundry) · GCP (Vertex AI)
-
-**Data:** Apache Spark · Kafka · Iceberg · Hadoop · Pinecone · QDrant · Redis
-
-**DevOps:** Docker · Kubernetes · Terraform · GitHub Actions · Helm
-
-**Languages:** Python · TypeScript · JavaScript · SQL
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-dataplatform-hub&show_icons=true&theme=dark&hide_border=true)
 
 ## 📫 Connect
 
