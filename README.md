@@ -57,8 +57,6 @@ Autonomous agents that collaborate to answer complex data questions using LangGr
 
 **Tech:** LangChain · LangGraph · AWS Bedrock · Azure OpenAI · LangSmith
 
-[![Stars](https://img.shields.io/github/stars/AI-DataPlatform-Hub/data-intelligence-agents?style=social)](https://github.com/AI-DataPlatform-Hub/data-intelligence-agents)
-
 ---
 
 ### [multi-cloud-agents](https://github.com/AI-DataPlatform-Hub/multi-cloud-agents)
@@ -68,7 +66,7 @@ Deploy the same agentic AI system across AWS and Azure with intelligent routing.
 
 **Tech:** AWS Bedrock · Azure AI Foundry · Kubernetes · Helm · Terraform
 
-[![Stars](https://img.shields.io/github/stars/AI-DataPlatform-Hub/multi-cloud-agents?style=social)](https://github.com/AI-DataPlatform-Hub/multi-cloud-agents)
+---
 
 ## 🛠️ Tech Stack
 
@@ -92,14 +90,6 @@ Deploy the same agentic AI system across AWS and Azure with intelligent routing.
 - 📧 Email: ai.dataplatform.io@gmail.com
 - 📝 Blog: [https://medium.com/@linj6669/navigating-the-ai-wave-a-solution-architects-guide-to-staying-relevant-3967b6d74fb3]
 - 🐦 X: @ai_dataplatform
-
----
-
-💡 **Building in public** | Follow my journey as I create tools for AI-powered data platforms
-
-⭐ **Star my repositories** if you find them useful!
-
-📢 **Open to collaborations** | Interesting projects | Speaking opportunities
 
 ---
 
