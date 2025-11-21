@@ -28,7 +28,7 @@ I'm a **Senior Solutions Architect at Amazon** specializing in agentic AI and en
 
 ## 🚀 Featured Projects
 
-### 🔌 [datalake-mcp](https://github.com/AI-DataPlatform-Hub/datalake-mcp)
+### [datalake-mcp](https://github.com/AI-DataPlatform-Hub/datalake-mcp)
 **Production-ready MCP server for AWS Data Lakes**
 
 Query your data lake with natural language through any MCP-compatible AI assistant.
@@ -47,7 +47,7 @@ Query your data lake with natural language through any MCP-compatible AI assista
 
 ---
 
-### 🤖 [data-intelligence-agents](https://github.com/AI-DataPlatform-Hub/data-intelligence-agents)
+### [data-intelligence-agents](https://github.com/AI-DataPlatform-Hub/data-intelligence-agents)
 **Multi-agent orchestration system for enterprise data intelligence**
 
 Autonomous agents that collaborate to answer complex data questions using LangGraph.
@@ -64,7 +64,7 @@ Autonomous agents that collaborate to answer complex data questions using LangGr
 
 ---
 
-### ☁️ [multi-cloud-agents](https://github.com/AI-DataPlatform-Hub/multi-cloud-agents)
+### [multi-cloud-agents](https://github.com/AI-DataPlatform-Hub/multi-cloud-agents)
 **Cross-cloud agentic AI deployment platform**
 
 Deploy the same agentic AI system across AWS and Azure with intelligent routing.
