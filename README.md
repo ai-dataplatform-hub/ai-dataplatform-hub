@@ -42,9 +42,6 @@ Query your data lake with natural language through any MCP-compatible AI assista
 
 **Tech:** Python · MCP Protocol · LangChain · AWS Bedrock · Pinecone · Docker
 
-[![Stars](https://img.shields.io/github/stars/AI-DataPlatform-Hub/datalake-mcp?style=social)](https://github.com/AI-DataPlatform-Hub/datalake-mcp)
-[![Forks](https://img.shields.io/github/forks/AI-DataPlatform-Hub/datalake-mcp?style=social)](https://github.com/AI-DataPlatform-Hub/datalake-mcp)
-
 ---
 
 ### [data-intelligence-agents](https://github.com/AI-DataPlatform-Hub/data-intelligence-agents)
